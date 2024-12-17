@@ -1,0 +1,17 @@
+{
+  "name": "mycontact-backend-api",
+  "version": "1.0.0",
+  "description": "simple express and node project for learning",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev" : "nodemon server.js"
+  },
+  "author": "Tharinda Premathilaka",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
